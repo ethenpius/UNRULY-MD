@@ -339,9 +339,9 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `╭════〘 *_UNRULY BOT_* 〙═⊷❍
+let cap = `╭════〘 *_ETHEN BOT_* 〙═⊷❍
 ┃✯❦╭──────────────
-┃✯❦│ *_𝐎𝐰𝐧𝐞𝐫 : IM-UNRULY_*
+┃✯❦│ *_𝐎𝐰𝐧𝐞𝐫 : IM-ETHEN_*
 ┃✯❦│ *_𝐔𝐬𝐞𝐫 : ${m.pushName}_*
 ┃✯❦│ *_𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 : 𝐋𝐢𝐧𝐮𝐱_*
 ┃✯❦│ *_𝐒𝐩𝐞𝐞𝐝 : ${dreadedspeed.toFixed(4)} 𝐦𝐬_*
@@ -475,10 +475,10 @@ client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `UNRULY-𝐀𝐈`,
+                                title: `ETHEN-𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./crown.jpg'),
-                                sourceUrl: 'https://wa.me/254798214068?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
+                                sourceUrl: 'https://wa.me/254757962944?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_Ethen™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -519,7 +519,7 @@ reply(resultt.stderr)
 
 break;
 
-case "𝐮𝐧𝐫𝐮𝐥𝐲":
+case "Ethen":
 const _0x3cfb2e = _0x5913;
 (function (_0x573879, _0x548047) {
     const _0x197f5a = _0x5913, _0x32c565 = _0x573879();
@@ -1707,7 +1707,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐮𝐧𝐫𝐮𝐥𝐲-𝐀𝐈`,
+                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 Ethen-𝐀𝐈`,
                     }, {
                         quoted: m
                     }
@@ -1734,7 +1734,7 @@ case "ping": case "speed": {
 
 case "alive": { 
   
- client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/IbM7XSM.mp4' }, caption: `𝐨𝐥𝐚 𝐢𝐭'𝐬  𝐔𝐧𝐫𝐮𝐥𝐲${m.pushName}, 𝐔𝐍𝐑𝐔𝐋𝐘 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/IbM7XSM.mp4' }, caption: `𝐨𝐥𝐚 𝐢𝐭'𝐬  Ethen${m.pushName}, Ethen @ Techspectre is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
@@ -1876,7 +1876,7 @@ case "movie":
  break;
  
       case "unruly": case "owner": case "unruly": 
- client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/9WyMGc4.mp4' }, caption: `Oiii it's me again Unruly😎🥷 contact +254798214068 🥱` }, {quoted: m}); 
+ client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/9WyMGc4.mp4' }, caption: `Oiii it's me again Ethen😎🥷 contact +254757962944 🥱` }, {quoted: m}); 
   
  break;
        
@@ -1911,7 +1911,7 @@ case "movie":
          let res = groups.map(v => v.id) 
          reply(` Broadcasting in ${res.length} Group Chat, in ${res.length * 1.5} seconds`) 
          for (let i of res) { 
-             let txt = `*_</ 𝐔𝐍𝐑𝐔𝐋𝐘 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}_*` 
+             let txt = `*_</ ETHEN 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}_*` 
              await client.sendMessage(i, { 
                  image: { 
                      url: "https://i.imgur.com/xyjvIs4.jpeg" 
@@ -1979,7 +1979,7 @@ case "movie":
         case "gpt": case "g": 
           
 
-            if (!text) return reply("Hello am 𝐔𝐍𝐑𝐔𝐋𝐘 an Ai developed by 𝐔𝐧𝐫𝐮𝐥𝐲, 𝐝𝐨 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐚𝐧𝐲 𝐪𝐮𝐢𝐳 𝐟𝐨𝐫 𝐦𝐞?");
+            if (!text) return reply("Hello am ETHEN an Ai developed by Ethen, 𝐝𝐨 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐚𝐧𝐲 𝐪𝐮𝐢𝐳 𝐟𝐨𝐫 𝐦𝐞?");
 
            const configuration = new Configuration({
 
@@ -2042,7 +2042,7 @@ async function getConversation() {
 
 // Handler for the "gpt" or "g" case
 async function handleGPTMessage(text, m) {
-  if (!text) return m.reply("Hello am 𝐔𝐍𝐑𝐔𝐋𝐘 an Ai developed by 𝐮𝐧𝐫𝐮𝐥𝐲, how can I help you today?");
+  if (!text) return m.reply("Hello am ETHEN an Ai developed by ethen, how can I help you today?");
 
   const configuration = new Configuration({
     apiKey: setting,
